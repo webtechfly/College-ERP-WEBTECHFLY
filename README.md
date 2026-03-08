@@ -1,4 +1,4 @@
-# College ERP System ##  WEBTECHFLY
+# College ERP System | WEBTECHFLY
 # MERN Stack Based Academic Management System
 # System Overview
 
